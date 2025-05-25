@@ -1,0 +1,10 @@
+^C:\USERS\ESNA _\SOFTENG2025\EXTERNALS\GOOGLETEST\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/esna _/SoftEng2025" "-BC:/Users/esna _/SoftEng2025/build" --check-stamp-file "C:/Users/esna _/SoftEng2025/build/externals/googletest/googletest/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

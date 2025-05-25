@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/esna _/SoftEng2025/build/cmake_install.cmake",
+		"C:/Users/esna _/SoftEng2025/build/externals/googletest/cmake_install.cmake",
+		"C:/Users/esna _/SoftEng2025/build/externals/googletest/googlemock/cmake_install.cmake",
+		"C:/Users/esna _/SoftEng2025/build/externals/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

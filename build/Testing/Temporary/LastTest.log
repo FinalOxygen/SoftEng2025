@@ -1,0 +1,203 @@
+Start testing: May 25 22:27 Œrodkowoeuropejski czas letni
+----------------------------------------------------------
+1/8 Testing: test_sort1
+1/8 Test: test_sort1
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_sort1.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_sort1" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_sort1
+[ RUN      ] test_sort1.AddFunction
+[       OK ] test_sort1.AddFunction (0 ms)
+[----------] 1 test from test_sort1 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (2 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"test_sort1" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_sort1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: test_sort2
+2/8 Test: test_sort2
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_sort2.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_sort2" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_sort2
+[ RUN      ] test_sort2.AddFunction
+[       OK ] test_sort2.AddFunction (0 ms)
+[----------] 1 test from test_sort2 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_sort2" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_sort2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: test_insert
+3/8 Test: test_insert
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_insert.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_insert" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_insert
+[ RUN      ] test_insert.AddFunction
+[       OK ] test_insert.AddFunction (0 ms)
+[----------] 1 test from test_insert (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_insert" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: test_radix
+4/8 Test: test_radix
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_radix.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_radix" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_radix
+[ RUN      ] test_radix.AddFunction
+[       OK ] test_radix.AddFunction (0 ms)
+[----------] 1 test from test_radix (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_radix" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_radix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: test_merge
+5/8 Test: test_merge
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_merge.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_merge" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_merge
+[ RUN      ] test_merge.AddFunction
+[       OK ] test_merge.AddFunction (0 ms)
+[----------] 1 test from test_merge (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test_merge" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_merge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: test_select
+6/8 Test: test_select
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_select.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_select" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_select
+[ RUN      ] test_select.AddFunction
+[       OK ] test_select.AddFunction (0 ms)
+[----------] 1 test from test_select (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_select" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_select" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: test_bubble
+7/8 Test: test_bubble
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_bubble.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_bubble" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_bubble
+[ RUN      ] test_bubble.AddFunction
+[       OK ] test_bubble.AddFunction (0 ms)
+[----------] 1 test from test_bubble (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_bubble" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_bubble" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: test_quick
+8/8 Test: test_quick
+Command: "C:/Users/esna _/SoftEng2025/build/Debug/test_quick.exe"
+Directory: C:/Users/esna _/SoftEng2025/build
+"test_quick" start time: May 25 22:27 Œrodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from test_quick
+[ RUN      ] test_quick.AddFunction
+[       OK ] test_quick.AddFunction (0 ms)
+[----------] 1 test from test_quick (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"test_quick" end time: May 25 22:27 Œrodkowoeuropejski czas letni
+"test_quick" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 22:27 Œrodkowoeuropejski czas letni

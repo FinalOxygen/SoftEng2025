@@ -1,0 +1,9 @@
+test_sort1 1 0.09625
+test_sort2 1 0.0503036
+test_insert 1 0.0502588
+test_radix 1 0.053726
+test_merge 1 0.0441054
+test_select 1 0.0475344
+test_bubble 1 0.0461795
+test_quick 1 0.0443644
+---
